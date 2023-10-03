@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkumar19701&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkumar19701" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tushar_twtss" target="blank"><img src="https://img.shields.io/twitter/follow/@tushar26412900?logo=twitter&style=for-the-badge" alt="@tushar26412900" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@tushar_twtss" target="blank"><img src="https://img.shields.io/twitter/follow/@tushar26412900?logo=twitter&style=for-the-badge" alt="@tushar_twtss" /></a> </p>
 
 - 🌱 Tech Stack: **Web Development, HTML, CSS, JS, React**
 - 🖥️ I'm currently learning **Express.js, MongoDB**
