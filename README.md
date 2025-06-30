@@ -35,11 +35,6 @@
 
 - 🧠 Codeforces Max Rating: `1322 (Pupil)`  
 - 🔥 LeetCode: `450+ questions solved`
-
-<p align="left">
-  ![Codeforces](https://codeforces.com/profile/donquixote_2shar)
-</p>
-
 ---
 
 ### 📈 GitHub Stats
@@ -53,8 +48,7 @@
 
 ### 📫 Let's Connect!
 
-- 📫 How to reach me **tusharkumar19701@gmail.com**
-[![LinkedIn](https://www.linkedin.com/in/tushar-kumar-063331245/)  
+- 📫 Reach me at **tusharkumar19701@gmail.com**
 
 ---
 
