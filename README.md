@@ -92,6 +92,6 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tusharkumar&label=Profile+Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=tusharkumar19701&label=Profile%20views&color=0e75b6&style=flat)
 
 
