@@ -33,11 +33,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Final year B.Tech CSE student at **BIT Sindri**
+- 🎓 Pre-Final year B.Tech CSE student at **BIT Sindri**
 - 💻 I love building full-stack applications & solving algorithmic problems
 - 🥇 **Max Codeforces Rating:** 1322 (Pupil)  
 - 📈 **Leetcode:** Solved 450+ problems  
-- 🚀 Currently working on a MERN stack **Learning Management System**
 
 ---
 
@@ -64,7 +63,7 @@
 
 <p align="left">
   <img src="https://cp-logo.vercel.app/codeforces/tusharkumarcf" alt="Codeforces Profile" />
-  <!-- Replace with your Codeforces handle -->
+  [Codeforces](https://codeforces.com/profile/donquixote_2shar)
 </p>
 
 ---
@@ -88,7 +87,7 @@
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)  
-<!-- Replace with your LinkedIn URL -->
+[LinkedIn](https://www.linkedin.com/in/tushar-kumar-063331245/)
 
 ---
 
